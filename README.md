@@ -17,7 +17,7 @@
   <a href="https://github.com/bagussatoto/bagussatoto/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
   </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <a href="https://github.com/bagussatoto/bagussatoto/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
   </a>
 </p>
@@ -69,9 +69,9 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/Age-20 th-black" alt="Age"/>
     </a>
-    <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://badges.pufler.dev/years/kalwabed?style=flat-square&color=000000" alt="Years Badge"/>
-    </a>
+    <!--<a href="https://github.com/bagussatoto/" target="_blank">
+        <img src="https://badges.pufler.dev/Years/kalwabed?style=flat-square&color=000000" alt="Years Badge"/>
+    </a> -->
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/repos/mazipan?style=flat-square&color=000000" alt="Repos Badge"/>
     </a>

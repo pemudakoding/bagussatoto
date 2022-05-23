@@ -67,7 +67,7 @@
         <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://img.shields.io/badge/Age-20-black" alt="Age"/>
+        <img src="https://img.shields.io/badge/Age-20 th-black" alt="Age"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/years/kalwabed?style=flat-square&color=000000" alt="Years Badge"/>

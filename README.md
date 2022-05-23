@@ -69,19 +69,19 @@
     <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/Age-20-black" alt="Age"/>
     </a>
-    <a href="https://badges.pufler.dev" target="_blank">
+    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/years/kalwabed?style=flat-square&color=000000" alt="Years Badge"/>
     </a>
-    <a href="https://badges.pufler.dev" target="_blank">
+    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/repos/mazipan?style=flat-square&color=000000" alt="Repos Badge"/>
     </a>
-    <a href="https://badges.pufler.dev" target="_blank">
+    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://badges.pufler.dev/gists/mazipan?style=flat-square&color=000000" alt="Gists Badge"/>
     </a>
-    <a href="https://badges.pufler.dev" target="_blank">
+    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/followers/bagussatoto?style=social" alt="GitHub followers"/>
     </a>
-    <a href="https://badges.pufler.dev" target="_blank">
+    <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/github/stars/zuramai?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">

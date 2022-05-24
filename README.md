@@ -137,7 +137,7 @@
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <!-- https://platane.github.io/snk/ -->
 
-![bagussatoto snake](https://github.com/bagussatoto/bagussatoto/blob/main/.github/Icon/ular%2024-5-22.svg) 
+![bagussatoto snake](https://github.com/bagussatoto/bagussatoto/blob/main/.github/Icon/ular%2024-5-22.svg?raw=true) 
 
 <!-- End -->
 

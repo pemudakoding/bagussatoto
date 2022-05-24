@@ -220,7 +220,7 @@
 
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/lordronz/lordronz/snek-output/github-contribution-grid-snake.svg" alt="Snek"/>
+   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/Icon/ular%2024-5-22.svg?raw=true" alt="Snek"/>
 </p>
 
 <!-- End -->

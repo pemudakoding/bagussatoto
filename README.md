@@ -209,8 +209,7 @@
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
     <!-- <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=bagasstrongman&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> -->
     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=bagussatoto&theme=onestar&column=4&margin-w=10&margin-h=10"/>
-    <!-- <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF"/> -->
-
+    <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=bagussatoto&theme=react-dark&bg_color=000000&color=FFFFFF"/>
   </a>
 </p>
 <!-- End -->
@@ -226,8 +225,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/25-5-22.svg?raw=true" alt="snake" width="1000"/>
-</p>
+   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/26-5-22.svg?raw=true" alt="snake" width="1000"/> 
 
 <!-- End -->
 

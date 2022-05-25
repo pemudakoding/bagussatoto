@@ -234,6 +234,6 @@
 <!-- Profile -->
 <br>
 <h2 align="Left"></h2>
-<a href="https://github.com/bagussatoto" target="_blank">💻 By BAGUS BUDI SATOTO </a>
+<a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories </a>
 <!-- End -->
 

@@ -114,7 +114,7 @@
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools:</h2><br>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools :</h2><br>
 
 <p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
@@ -206,7 +206,7 @@
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"> 
-<img src="./.github/bagussatoto.jpg" width="" height="200" alt="WebsiteQR"> 
+<img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/bagussatoto.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <!--<p align="center">

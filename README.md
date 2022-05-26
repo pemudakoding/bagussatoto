@@ -201,18 +201,17 @@
 
 
 <!-- Scanner -->
-
 <h2 align="center"> 🪪 Github Scanner : </h2>
 <br>
 <p align="center" >
-<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/bagussatoto.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/bagussatoto.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
+</a>
+</p>
 
 <!--<p align="center">
    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/25-05-2022.svg?raw=true" alt="snake" width="1000"/> -->
-   
-</p>
+
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 

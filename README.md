@@ -225,7 +225,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/26-5-22.svg?raw=true" alt="snake" width="1000"/> 
+   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/25-05-2022.svg?raw=true" alt="snake" width="1000"/> 
 
 <!-- End -->
 

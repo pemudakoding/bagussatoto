@@ -239,9 +239,6 @@
 
 <!-- https://platane.github.io/snk/ -->
 
-<!--![bagussatoto snake](https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/25-5-22.svg) -->
-
-
 <p align="center">
    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/snake/ular%2028-5-22.svg?raw=true" alt="snake" width="1000"/> 
 

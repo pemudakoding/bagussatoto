@@ -204,7 +204,7 @@
 <h2 align="center"> 🪪 Github Scanner : </h2>
 <br>
 <p align="center" >
-<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/bagussatoto.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
+<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20QR/QrGit-Bagus.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
 </a>
 </p>

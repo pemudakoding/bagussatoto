@@ -214,9 +214,22 @@
 
 <!--<p align="center">
    <img src="https://github.com/bagussatoto/bagussatoto/blob/main/.github/snake/25-05-2022.svg?raw=true" alt="snake" width="1000"/> -->
+<!-- End -->
 
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<!-- Scanner -->
+<h2 align="center"> 🤖 Waka TIme: </h2>
+<br>
+<p align="center" >
+<a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/metrics.plugin.wakatime.svg?raw=true" width="" height="200" alt="WakaTime"> 
+</a>
+</p>
+<!-- End -->
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 
 
 <!--pencapaian -->

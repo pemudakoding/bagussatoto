@@ -96,7 +96,7 @@
 
 
 <!-- Coonection -->
-<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect With Me : </h2><br>
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect With Me  </h2><br>
 
 <p align="center">
 <!--<a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
@@ -117,7 +117,7 @@
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools :</h2><br>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Languages and Tools </h2><br>
 
 <p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 
@@ -204,7 +204,7 @@
 
 
 <!-- Scanner -->
-<h2 align="center"> 🪪 Github Scanner : </h2>
+<h2 align="center"> 🪪 Github Scanner  </h2>
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20QR/QrGit-Bagus.svg?raw=true" width="" height="200" alt="WebsiteQR"> 
@@ -220,7 +220,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <!-- Scanner -->
-<h2 align="center"> 🤖 Waka TIme : </h2>
+<h2 align="center"> 🤖 Waka TIme  </h2>
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto" target="_blank" rel="noreferrer"><img src="https://github.com/bagussatoto/bagussatoto/blob/main/metrics.plugin.wakatime.svg?raw=true" width="" height="200" alt="WakaTime"> 
@@ -233,7 +233,7 @@
 
 
 <!--pencapaian -->
-<h2 align="center"> 📈 Github Statistic : </h2>
+<h2 align="center"> 📈 Github Statistic  </h2>
 <br>
 <p align="center">
   <a href="https://github.com/bagussatoto">
@@ -256,7 +256,7 @@
 <!-- https://platane.github.io/snk/ -->
 
 <p align="center">
-   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20snake/ular%201juni22.svg?raw=true" alt="snake" width="1000"/> 
+   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20snake/snake%202Juni22.svg?raw=true" alt="snake" width="1000"/> 
 
 <!-- End -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>

@@ -96,7 +96,10 @@
 
 
 <!-- Coonection -->
-<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px">Connect With Me  </h2><br>
+<h2 align="center">
+<!--<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> -->
+
+🫱🏽‍🫲🏻 Connect With Me  </h2><br>
 
 <p align="center">
 <!--<a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" />
@@ -117,7 +120,11 @@
 <br>
 
 <!-- Languages and Tools -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">Languages and Tools </h2><br>
+<h2 align="center">
+
+<!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> -->
+
+📊Languages and Tools </h2><br>
 
 <p align="center"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
 </a> 

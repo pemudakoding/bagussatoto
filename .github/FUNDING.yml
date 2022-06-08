@@ -13,4 +13,4 @@ lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cl
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2'] [https://example.com/]
 
 
-custom : ['Saweria'] [https:saweria.co/bagussatoto1]
+custom : ["https:saweria.co/bagussatoto1"]

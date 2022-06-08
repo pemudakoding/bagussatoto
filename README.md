@@ -45,7 +45,7 @@
 
 <!-- Sponsore -->
 <p align="center">
-  ❤️ You can use this service for free. I'm looking for sponsors to help us keep up with this service ❤️
+  ❤️ I'm looking for sponsors to help us keep up with this service ❤️
 </p>
 <p align="center">
   <a href="https://saweria.co/bagussatoto1">
@@ -227,7 +227,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <!-- Scanner -->
-<h2 align="center"> 🤖 Waka TIme  </h2>
+<h2 align="center"> 🤖 Waka Time  </h2>
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">

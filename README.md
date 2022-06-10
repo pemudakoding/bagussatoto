@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/static/v1?label=Saweria&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a> 
   <a href="https://www.buymeacoffee.com/baagussatoto">
-    <img src="https://img.shields.io/static/v1?label=buymeacoffee&message=%E2%9D%A4&logo=buymeacoffee&color=ff69b4"/> 
+    <img src="https://img.shields.io/static/v1?label=Buymeacoffee&message=%E2%9D%A4&logo=buymeacoffee&color=ff69b4"/> 
   </a>
     <a href="https://www.paypal.com/paypalme/bagussatoto1">
     <img src="https://img.shields.io/static/v1?label=Paypal&message=%E2%9D%A4&logo=paypal&color=ff69b4"/> 

@@ -88,7 +88,7 @@
         <img src="https://img.shields.io/github/stars/zuramai?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars"/>
     </a>
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="bagussatoto"/>
+        <img src="https://wakatime.com/badge/github/bagussatoto/bagussatoto.svg?raw=true" alt="Wakatime"/>
     </a>
        <a href="https://github.com/bagussatoto/" target="_blank">
         <img src="https://img.shields.io/badge/isAwesome-true-blue?style=flat-square&color=000000" alt="bagussatoto"/>
@@ -247,12 +247,13 @@
 </p>
 <!-- End -->
 
+<!--
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">
 <img src="https://wakatime.com/share/@bagussatoto/38c86099-3d18-4b4a-9745-8bcaeb922005.svg?raw=true" width="1000" height="400"/>
 </a>
-</p>
+</p> -->
 
 
 

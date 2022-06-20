@@ -250,7 +250,7 @@
 <br>
 <p align="center" >
 <a herf="https://github.com/bagussatoto">
-<img src="https://wakatime.com/share/@bagussatoto/38c86099-3d18-4b4a-9745-8bcaeb922005.svg?raw=true">
+<img src="https://wakatime.com/share/@bagussatoto/38c86099-3d18-4b4a-9745-8bcaeb922005.svg?raw=true" width="1000" height="400"/>
 </a>
 </p>
 
@@ -283,7 +283,7 @@
 <!-- https://platane.github.io/snk/ -->
 
 <p align="center">
-   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20snake/17-6-22.svg?raw=true" alt="snake" width="1000"/> 
+   <img src="https://github.com/bagussatoto/bagussatoto/blob/main/%E2%9C%85%20snake/20-6-22.svg?raw=true" alt="snake" width="1000"/> 
 
 <!-- End -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
